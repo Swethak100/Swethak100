@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Swetha
+- 🌱 I am passionate about Java backend development and currently focusing on learning Spring Boot, Hibernate, and PostgreSQL.
