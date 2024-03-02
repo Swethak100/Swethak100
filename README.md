@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Swetha
 - 🌱 I am passionate about Java backend development and currently focusing on learning Spring Boot, Hibernate, and PostgreSQL.
+- To contribute for the success and growth of the organization through my dedicated and diligent efforts
